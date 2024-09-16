@@ -3,16 +3,16 @@
 ## Kelompok 2
 
 ### Anggota
-#### Dewi Anjani Wibowo		    (2213025018)
-#### Hadi Rama Wijaya		    (2213025006)
-#### Nestyo Rizky Prasetyo	    (2213025002)
-#### Bela Cantika			    (2213025076)
-#### Lutfi Nur Rohman		    (2213025064)
-#### Ajeng Indar Arsyida		(2213025034)
-#### Putri Carlly Aprilia Alam  (2213025046)
-#### Ratu Inayah Khansa		    (2213025030)
-#### Riko Saputra			    (2213025010)
-#### Muhammad Segaf Alfarizi 	(2213025068)
+ Dewi Anjani Wibowo		    (2213025018)
+ Hadi Rama Wijaya		    (2213025006)
+ Nestyo Rizky Prasetyo	    (2213025002)
+ Bela Cantika			    (2213025076)
+ Lutfi Nur Rohman		    (2213025064)
+ Ajeng Indar Arsyida		(2213025034)
+ Putri Carlly Aprilia Alam  (2213025046)
+ Ratu Inayah Khansa		    (2213025030)
+ Riko Saputra			    (2213025010)
+ Muhammad Segaf Alfarizi 	(2213025068)
 
 ## Deksripsi Aplikasi
 
