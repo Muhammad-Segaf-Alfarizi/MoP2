@@ -2,7 +2,7 @@
 
 ## Kelompok 2
 
-### Anggota
+### Anggota :
 #### Dewi Anjani Wibowo		    (2213025018)
 #### Hadi Rama Wijaya		    (2213025006)
 #### Nestyo Rizky Prasetyo	    (2213025002)
