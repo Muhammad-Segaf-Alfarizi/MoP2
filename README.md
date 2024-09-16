@@ -1,7 +1,7 @@
 # Mata Kuliah Mobile Programing 
 
 ## Kelompok 2
-
+## Ketua Kelompok : Riko Pangabean 
 ### Anggota :
 #### Dewi Anjani Wibowo		    (2213025018)
 #### Hadi Rama Wijaya		    (2213025006)
