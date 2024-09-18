@@ -3,16 +3,16 @@
 ## Kelompok 2
 ## Ketua Kelompok : Riko Pangabean 
 ### Anggota :
->> Dewi Anjani Wibowo		    (2213025018)
->> Hadi Rama Wijaya		    (2213025006)
->> Nestyo Rizky Prasetyo	    (2213025002)
->> Bela Cantika			    (2213025076)
->> Lutfi Nur Rohman		    (2213025064)
->> Ajeng Indar Arsyida		(2213025034)
->> Putri Carlly Aprilia Alam  (2213025046)
->> Ratu Inayah Khansa		    (2213025030)
->> Riko Saputra			    (2213025010)
->> Muhammad Segaf Alfarizi 	(2213025068)
+>> Dewi Anjani Wibowo		    (2213025018) <br>
+>> Hadi Rama Wijaya		    (2213025006)<br>
+>> Nestyo Rizky Prasetyo	    (2213025002)<br>
+>> Bela Cantika			    (2213025076)<br>
+>> Lutfi Nur Rohman		    (2213025064)<br>
+>> Ajeng Indar Arsyida		(2213025034)<br>
+>> Putri Carlly Aprilia Alam  (2213025046)<br>
+>> Ratu Inayah Khansa		    (2213025030)<br>
+>> Riko Saputra			    (2213025010)<br>
+>> Muhammad Segaf Alfarizi 	(2213025068)<br>
 
 ## Deksripsi Aplikasi
 
